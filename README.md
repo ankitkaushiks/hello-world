@@ -4,5 +4,4 @@ This is just a trial repository. Nothing yet now however working on it.
 This will be my journey book. :)
 
 27-April-2022.   Make my first repository with the help of github start Tour.
-hlo
-changes made by readme-edits.
+27-April-2022.   Made a new branch readme-edits-2 and do some changes in readme files.
